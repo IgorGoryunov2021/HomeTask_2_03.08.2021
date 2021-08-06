@@ -41,10 +41,7 @@ else:
 
 
 
-#new_dict = ds_1[3], ds_2[3]
-#print(new_dict)
 
-#new_dict_2 = ds_1, ds_2
 
 
 
